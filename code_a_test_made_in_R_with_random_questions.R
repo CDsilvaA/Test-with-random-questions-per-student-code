@@ -1,5 +1,7 @@
-# Authors: ARCE, CDS <cdnsprado at gmail dot com>
-#          PRADO, TR <trprado at outlook dot com>
+# Authors: ARCE, Cherlynn Daniela da Silva <cdnsprado at gmail dot com>
+#          PRADO, Thiago Roberto do <trprado at outlook dot com>
+# Supervisiors: MUNARI, Danisio Prado
+#               OLIVEIRA, Henrique Nunes de           
 # Create: 2020-06-23
 # Last-Modified: 2020-06-23
 # License: GPLv3
